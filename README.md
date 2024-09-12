@@ -16,14 +16,14 @@ yuguomath@aliyun.com
 
 by Yu Guo, Sep. 12, 2024.
 
-@article{GUO2025110986,
-author = {Yu Guo and Guoqing Chen and Tieyong Zeng and Qiyu Jin and Michael Kwok-Po Ng},
-title = {Quaternion Nuclear Norm Minus Frobenius Norm Minimization for color image reconstruction},
-journal = {Pattern Recognition},
-volume = {158},
-pages = {110986},
-year = {2025},
-issn = {0031-3203},
-doi = {https://doi.org/10.1016/j.patcog.2024.110986},
-url = {https://www.sciencedirect.com/science/article/pii/S0031320324007374}
+@article{GUO2025110986, 
+author = {Yu Guo and Guoqing Chen and Tieyong Zeng and Qiyu Jin and Michael Kwok-Po Ng}, 
+title = {Quaternion Nuclear Norm Minus Frobenius Norm Minimization for color image reconstruction}, 
+journal = {Pattern Recognition}, 
+volume = {158}, 
+pages = {110986}, 
+year = {2025}, 
+issn = {0031-3203}, 
+doi = {https://doi.org/10.1016/j.patcog.2024.110986}, 
+url = {https://www.sciencedirect.com/science/article/pii/S0031320324007374} 
 }
